@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Osipov"]
+	path = SubmoduleRepository_Osipov
+	url = https://github.com/osipov-n/SubmoduleRepository_Osipov.git
